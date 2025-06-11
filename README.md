@@ -20,6 +20,8 @@ A TypeScript-based app that helps job seekers track their job applications and p
 ### 🚦 [IoT-Arduino-Smart-Traffic-Light](https://github.com/gustavoSo3/IoT-Arduino-Smart-Traffic-Light)
 A real-time IoT traffic light system using **Arduino**, **AWS**, and **machine learning** to manage traffic and pedestrian safety.
 
+---
+
 ### 🎓 University Coursework
 I organized several of my university projects in one place, across courses like cloud computing, OS fundamentals, and secure software development.
 👉 [View UniversityWork Repo](https://github.com/gustavoSo3/UniversityWork)
