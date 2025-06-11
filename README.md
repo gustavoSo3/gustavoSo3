@@ -21,7 +21,7 @@ A TypeScript-based app that helps job seekers track their job applications and p
 A real-time IoT traffic light system using **Arduino**, **AWS**, and **machine learning** to manage traffic and pedestrian safety.
 
 ### 🎓 [UniversityWork](https://github.com/gustavoSo3/UniversityWork)
-Collection of academic projects — includes everything from web apps to C-based systems and ML experiments.
+Collection of academic projects, includes everything from web apps to C-based systems and ML experiments.
 
 ---
 
