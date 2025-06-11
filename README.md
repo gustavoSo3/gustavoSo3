@@ -34,10 +34,11 @@ Collection of academic projects — includes everything from web apps to C-based
 
 ## 📬 Reach Me
 
+### 💼 Open to Work
+I'm currently open to job opportunities in software development, especially in web, embedded systems, or backend roles. Let's connect!
+
 - 📧 Email: [gustavo.jhsotres@gmail.com](mailto:gustavo.jhsotres@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/gustavoso3](https://www.linkedin.com/in/gustavoso3)
 - 🌍 Based in USA | Open to remote & relocation opportunities
-
-> "I build, learn, iterate—and sometimes break things on purpose to understand them better."
 
 ---
