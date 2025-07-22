@@ -8,7 +8,6 @@
 - **Languages:** Python, C++, JavaScript, TypeScript, Bash, ASM
 - **Embedded & IoT:** Arduino, AT89S52, MQTT, LoRaWAN, AWS IoT Core
 - **Web & Cloud:** Node.js, React, MongoDB, AWS (Lambda, S3, SQS)
-- **Tools:** Git, CI/CD, zsh/bash configs, Unit Testing, Verilog
 
 ---
 
