@@ -28,7 +28,6 @@ I organized several of my university projects in one place, across courses like 
 ## 🌱 Currently Learning
 
 - 🛠️ Cisco CCNA Certification - Preparing for the CCNA exam with a focus on networking fundamentals, routing & switching, and network security.
-Check out my [CCNA Prep Repository](https://github.com/gustavoSo3/CCNA-Prep) where I document my study materials and hands-on practice.
 
 ---
 
