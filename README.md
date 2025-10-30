@@ -6,7 +6,7 @@
 
 🛠️ **Tech I Use:**
 - **Languages:** Python, JavaScript, TypeScript, Bash, C/C++, SQL
-- **Web & Cloud:** Node.js, React, MongoDB, AWS (Lambda, S3, SQS, DynamoDB, Rekognition)
+- **Web & Cloud:** Node.js, React, NEXTJS, MongoDB, AWS (Lambda, S3, SQS, DynamoDB, Rekognition)
 - **Infrastructure & DevOps:** CI/CD, Docker, Shell Scripting, GitHub Actions, Infrastructure-as-Code, System Monitoring
 - **Embedded & IoT:** Arduino, ESP32, AT89S52, MQTT
 - **Tools & Testing:** Git, Logic Analyzers, VS Code, JIRA, Trello
@@ -16,18 +16,17 @@
 
 ## 📌 Featured Repositories
 
+### 💹 [Symbol View](https://github.com/gustavoSo3/symbol-view)
+
+A TypeScript + Next.js dashboard that displays stock market data using the **Alpha Vantage API**.  
+Built for a coding challenge - expanded into a portfolio project focusing on **data fetching, error handling, and responsive UI**.
+
 ### 🚦 [IoT-Arduino-Smart-Traffic-Light](https://github.com/gustavoSo3/IoT-Arduino-Smart-Traffic-Light)
 A real-time IoT traffic light system using **Arduino**, **AWS**, and **machine learning** to manage traffic and pedestrian safety.
 
 ### 🎓 University Coursework
 I organized several of my university projects in one place, across courses like cloud computing, OS fundamentals, and secure software development.
 👉 [View UniversityWork Repo](https://github.com/gustavoSo3/UniversityWork)
-
----
-
-## 🌱 Currently Learning
-
-- 🛠️ Cisco CCNA Certification - Preparing for the CCNA exam with a focus on networking fundamentals, routing & switching, and network security.
 
 ---
 
