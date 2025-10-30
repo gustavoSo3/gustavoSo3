@@ -16,7 +16,7 @@
 
 ## 📌 Featured Repositories
 
-### 💹 [Symbol View](https://github.com/gustavoSo3/[symbol-view](https://github.com/gustavoSo3/Symbol-View))
+### 💹 [Symbol View](https://github.com/gustavoSo3/Symbol-View)
 
 A TypeScript + Next.js dashboard that displays stock market data using the **Alpha Vantage API**.  
 Built for a coding challenge - expanded into a portfolio project focusing on **data fetching, error handling, and responsive UI**.
