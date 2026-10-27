@@ -7,7 +7,7 @@ Previously interned at Meta, where I built a Python-based tool to simplify compl
 Currently Working at TATA Consultancy Services (TCS) as a Cloud Support Engineer
 
 **Tech I Use:**
-- **Languages:** Go TypeScript/JS, Python, Bash.
+- **Languages:** Go, TypeScript/JS, Python, Bash.
 - **Web & Cloud:** Go, React, Bootstrap and Google Cloud Platform (Compute Engine, Buckets, Cloud Run)
 - **Infrastructure & DevOps:** CI/CD, Docker, Shell Scripting, sytemd, System Monitoring
 - **Networking & Systems:** TCP/IP, NAT, OSPF, VLANs, DNS, DHCP, Linux (Arch, Debian, Ubuntu)
