@@ -1,15 +1,15 @@
 # Hey, I'm Gustavo Sotres!
 
-I'm a **Computer Systems Engineering** graduate from ITESO, passionate about Cloud Infrastructure, IoT and networking.
+I'm a **Computer Systems Engineering** graduate from ITESO, passionate about Cloud Infrastructure, IA and networking.
 
-Previously interned at Meta, where I built a Python-based tool to simplify complex networking workflows. I'm currently preparing for the CCNA certification.
+Previously interned at Meta, where I built a Python-based tool to simplify complex networking workflows.
+
+Currently Working at TATA Consultancy Services (TCS) as a Cloud Support Engineer
 
 **Tech I Use:**
-- **Languages:** Python, JavaScript, TypeScript, Bash, C/C++, SQL
-- **Web & Cloud:** Node.js, React, NEXTJS, MongoDB, AWS (Lambda, S3, SQS, DynamoDB, Rekognition)
-- **Infrastructure & DevOps:** CI/CD, Docker, Shell Scripting, GitHub Actions, Infrastructure-as-Code, System Monitoring
-- **Embedded & IoT:** Arduino, ESP32, AT89S52, MQTT
-- **Tools & Testing:** Git, Logic Analyzers, VS Code, JIRA, Trello
+- **Languages:** Go TypeScript/JS, Python, Bash.
+- **Web & Cloud:** Go, React, Bootstrap and Google Cloud Platform (Compute Engine, Buckets, Cloud Run)
+- **Infrastructure & DevOps:** CI/CD, Docker, Shell Scripting, sytemd, System Monitoring
 - **Networking & Systems:** TCP/IP, NAT, OSPF, VLANs, DNS, DHCP, Linux (Arch, Debian, Ubuntu)
 
 ---
@@ -33,10 +33,10 @@ I organized several of my university projects in one place, across courses like 
 ## Reach Me
 
 ### Open to Work
-I'm actively exploring roles in infrastructure engineering, networking, or datacenter operations, as well as backend or cloud development. I love solving real-world problems at scale. Let’s get in touch!
+I'm actively exploring roles as Cloud Engineer, Infrastructure Engineer,  IA Deployments, as well as Backend and Frontend development. I love solving real-world problems at scale. Let’s get in touch!
 
 - Email: [gustavo.jhsotres@gmail.com](mailto:gustavo.jhsotres@gmail.com)
 - LinkedIn: [linkedin.com/in/gustavoso3](https://www.linkedin.com/in/gustavoso3)
-- Based in USA | Open to remote & relocation opportunities
+- Based in Mexico | Open to remote & relocation opportunities
 
 ---
