@@ -2,9 +2,9 @@
 
 I'm a **Computer Systems Engineering** graduate from ITESO, passionate about Cloud Infrastructure, IA and networking.
 
-Previously interned at Meta, where I built a Python-based tool to simplify complex networking workflows.
-
 Currently Working at TATA Consultancy Services (TCS) as a Cloud Support Engineer
+
+Previously interned at Meta, where I built a Python-based tool to simplify complex networking workflows.
 
 **Tech I Use:**
 - **Languages:** Go, TypeScript/JS, Python, Bash.
@@ -15,6 +15,10 @@ Currently Working at TATA Consultancy Services (TCS) as a Cloud Support Engineer
 ---
 
 ## Some Repos
+
+### [GoSlug](https://github.com/gustavoSo3/goslug)
+
+GoSlug is a lightweight, high-performance Go-based URL redirection service featuring administrative controls, flexible storage adapters, and secure session management.
 
 ### [Symbol View](https://github.com/gustavoSo3/Symbol-View)
 
