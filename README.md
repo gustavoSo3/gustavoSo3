@@ -2,7 +2,7 @@
 
 I'm a **Computer Systems Engineering** graduate from ITESO, passionate about Cloud Infrastructure, IA and networking.
 
-Currently Working at TATA Consultancy Services (TCS) as a Cloud Support Engineer
+Currently Working at TATA Consultancy Services (TCS) as a Cloud Engineer
 
 Previously interned at Meta, where I built a Python-based tool to simplify complex networking workflows.
 
