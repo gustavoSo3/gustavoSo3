@@ -40,7 +40,7 @@ I organized several of my university projects in one place, across courses like 
 I'm actively exploring roles as Cloud Engineer, Infrastructure Engineer,  IA Deployments, as well as Backend and Frontend development. I love solving real-world problems at scale. Let’s get in touch!
 
 - Email: [gustavo.jhsotres@gmail.com](mailto:gustavo.jhsotres@gmail.com)
-- LinkedIn: [linkedin.com/in/gustavoso3](https://www.linkedin.com/in/gustavoso3)
+- LinkedIn: [gustavoso3](https://goso3.com/linkedin)
 - Based in Mexico | Open to remote & relocation opportunities
 
 ---
